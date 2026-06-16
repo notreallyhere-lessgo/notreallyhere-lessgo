@@ -41,7 +41,7 @@ i don’t really treat this as my main space, but i show up here sometimes to:
 
 ## 🟢 current vibe
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8A8A8A&width=435&lines=I literally have no idea...;I did this animation cuz i thought it would look cool...;does it really look cool tho?
+![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8A8A8A&width=435&lines=I+literally+have+no+idea...;I+did+this+animation+cuz+i+thought+it+would+look+cool...;does+it+really+look+cool+tho?)
 
 ---
 
@@ -50,5 +50,5 @@ i don’t really treat this as my main space, but i show up here sometimes to:
 nothing too serious here.  
 just learning, building, repeating.
 
-you're on your own kid, you always have been 
+you're on your own kid, you always have been  
 yes if you get the reference, we can be friends :)
