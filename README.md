@@ -1,54 +1,18 @@
-# hi, i'm notreallyhere 👋
+# hi, i'm notreallyhere
 
-> just someone exploring things quietly on the internet.
+i usually show up here the way people open a window they don’t fully intend to look out of—just briefly, just when curiosity wins over inertia.
 
----
+this space isn’t really a “profile” in the traditional sense. it’s more like a side-effect of me trying to figure things out while simultaneously avoiding figuring things out.
 
-## 🌊 about me
+i’m working on a GNN-based drug discovery project right now. it sounds structured when you say it like that, but most days it’s just me learning something, forgetting it, relearning it, and convincing myself that counts as progress.
 
-hey, i’m mostly just lurking around github.
+outside of code, i like stories. movies, mostly. and writing—though I haven’t properly written in a long time, which is a polite way of saying I keep thinking about writing more than I actually write.
 
-i don’t really treat this as my main space, but i show up here sometimes to:
-- try random ideas
-- learn things when curiosity hits
-- break things and slowly fix them
+i’m also a Schitt’s Creek fan, which feels relevant in the sense that I deeply appreciate characters who start off slightly lost and somehow make it work anyway.
 
----
+truth is, I’m probably the most procrastinated, low-motivation person you’ll meet on a productive day. but I still keep showing up here, so I guess something is working in the background, even if I don’t always know what.
 
-## 🎬 things i like (outside code)
+most things here are still under construction. including me.
 
-- i like watching people (just observing life, nothing deep)
-- i really like movies
-- i listen to music most of the time
-
----
-
-## 🧠 what i’m working on
-
-- 🧬 GNN-based drug discovery project
-- still figuring things out as i go
-
----
-
-## ⚙️ tools i use
-
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)
-![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-
----
-
-## 🟢 current vibe
-
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8A8A8A&width=435&lines=I+literally+have+no+idea...;I+did+this+animation+cuz+i+thought+it+would+look+cool...;does+it+really+look+cool+tho?)
-
----
-
-## 🌙 closing note
-
-nothing too serious here.  
-just learning, building, repeating.
-
-you're on your own kid, you always have been  
-yes if you get the reference, we can be friends :)
+your on your own kid  
+best wishes, warmest regards
